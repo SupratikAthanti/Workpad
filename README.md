@@ -5,12 +5,6 @@ The device features 8 backlit keys, a rotary encoder, an OLED screen, and an XIA
 <img width="502" height="438" alt="Screenshot 2025-12-24 at 9 51 58 AM" src="https://github.com/user-attachments/assets/3c5077b8-cd2a-45e4-b47a-adc0f90291b5" />
 <img width="709" height="570" alt="Screenshot 2025-12-24 at 9 52 16 AM" src="https://github.com/user-attachments/assets/8b89cc5d-790b-44bf-84f8-76a0a83ee80f" />
 
-
-## CAD
-
-The case is assembled using four M3 bolts and four M3 heat-set inserts.\
-The case is made of three separate printed pieces.\
-
 ## Schematic
 <img width="874" height="609" alt="Screenshot 2025-12-23 at 7 32 57 PM" src="https://github.com/user-attachments/assets/96de6ff6-db1a-421f-a7dc-65f70ea8e322" />
 
@@ -22,7 +16,8 @@ The case is made of three separate printed pieces.\
 <img width="1197" height="603" alt="Screenshot 2025-12-23 at 7 35 03 PM" src="https://github.com/user-attachments/assets/4f7e9165-f8da-43ca-926a-4c0cbed66dc0" />
 <img width="1197" height="603" alt="Screenshot 2025-12-23 at 7 35 09 PM" src="https://github.com/user-attachments/assets/e8bb432d-ea33-4390-8cc1-f47ae891a24b" />
 
-
+The case is assembled using four M3 bolts and four M3 heat-set inserts.\
+The case is made of three separate printed pieces.\
 
 ## Firmware
 
