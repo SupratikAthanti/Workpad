@@ -16,8 +16,8 @@ The device features 8 backlit keys, a rotary encoder, an OLED screen, and an XIA
 <img width="1197" height="603" alt="Screenshot 2025-12-23 at 7 35 03 PM" src="https://github.com/user-attachments/assets/4f7e9165-f8da-43ca-926a-4c0cbed66dc0" />
 <img width="1197" height="603" alt="Screenshot 2025-12-23 at 7 35 09 PM" src="https://github.com/user-attachments/assets/e8bb432d-ea33-4390-8cc1-f47ae891a24b" />
 
-The case is assembled using four M3 bolts and four M3 heat-set inserts.\
-The case is made of three separate printed pieces.\
+The case is assembled using four M3 bolts and four M3 heat-set inserts.
+The case is made of three separate printed pieces.
 
 ## Firmware
 
